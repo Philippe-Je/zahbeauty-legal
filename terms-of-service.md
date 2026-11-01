@@ -1,9 +1,10 @@
-# Terms of Service
+---
+layout: default
+title: Terms of Service
+last_updated: November 1, 2026
+---
 
-**ZahBeauty**
-**Last updated: August 24, 2026**
-
-These Terms of Service ("Terms") govern your use of the ZahBeauty mobile application (the "App"), operated by ZahBeauty, a natural hair studio based in Babylon, New York ("we," "us," or "our"). By creating an account or using the App, you agree to these Terms. If you do not agree, please do not use the App.
+These Terms of Service ("Terms") govern your use of the ZahBeauty mobile application (the "App"), operated by ZahBeauty, a natural hair studio based in Philadelphia, Pennsylvania ("we," "us," or "our"). By creating an account or using the App, you agree to these Terms. If you do not agree, please do not use the App.
 
 Please read these Terms carefully. They include important information about your bookings, deposits, and your rights and responsibilities.
 
@@ -40,6 +41,8 @@ Service names, descriptions, durations, and prices shown in the App are estimate
 **Deposit required.** A deposit equal to **30% of the service price** is required to secure your booking. Deposits are collected at the time of booking through our third-party payment processor, **Stripe**. Your deposit is applied toward the total cost of your service.
 
 **Cancellations with proper notice.** Cancellations must be made at least **24 hours** before your scheduled appointment. If you cancel with at least 24 hours' notice, your deposit is refundable and will be returned to your original payment method.
+
+**Cancellations by ZahBeauty.** If ZahBeauty cancels your booking for any reason, your full deposit will be refunded to your original payment method.
 
 **Late cancellations and no-shows.** If you cancel with less than 24 hours' notice, or if you do not show up for your scheduled appointment, you **forfeit your deposit**.
 
@@ -106,7 +109,7 @@ The App, including its design, text, graphics, logos, and software, is owned by 
 
 ## 10. Third-Party Services
 
-The App relies on third-party services, including Stripe for payments, Supabase for data hosting, and Expo for notifications. Your use of these services may be subject to their own terms and policies. We are not responsible for the acts or omissions of these third parties.
+The App relies on third-party services, including Stripe for payments, Supabase for data hosting, Expo for push notifications, and Resend for email delivery. Your use of these services may be subject to their own terms and policies. We are not responsible for the acts or omissions of these third parties.
 
 ---
 
@@ -134,7 +137,7 @@ You agree to indemnify and hold harmless ZahBeauty and its owners from any claim
 
 ## 14. Governing Law and Disputes
 
-These Terms are governed by the laws of the State of New York, without regard to its conflict-of-laws rules. Any dispute arising out of or relating to these Terms or the App will be subject to the exclusive jurisdiction of the state and federal courts located in New York, and you consent to the jurisdiction of those courts.
+These Terms are governed by the laws of the Commonwealth of Pennsylvania, without regard to its conflict-of-laws rules. Any dispute arising out of or relating to these Terms or the App will be subject to the exclusive jurisdiction of the state and federal courts located in Philadelphia County, Pennsylvania, and you consent to the jurisdiction of those courts.
 
 ---
 
@@ -148,6 +151,4 @@ We may update these Terms from time to time. When we do, we will revise the "Las
 
 If you have any questions about these Terms, contact us at:
 
-**ZahBeauty**
-Babylon, New York
-Email: **zahbeauty3@gmail.com**
+<p class="contact"><strong>ZahBeauty</strong><br />Philadelphia, Pennsylvania<br />Email: <a href="mailto:zahbeauty3@gmail.com">zahbeauty3@gmail.com</a></p>

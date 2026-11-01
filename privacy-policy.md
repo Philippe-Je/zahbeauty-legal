@@ -1,9 +1,10 @@
-# Privacy Policy
+---
+layout: default
+title: Privacy Policy
+last_updated: November 1, 2026
+---
 
-**ZahBeauty**
-**Last updated: August 24, 2026**
-
-ZahBeauty ("we," "us," or "our") operates the ZahBeauty mobile application (the "App"), which lets clients of ZahBeauty, a natural hair studio based in Babylon, New York, browse services, book appointments, pay deposits, and manage their accounts. This Privacy Policy explains what information we collect, how we use it, how we protect it, and the choices you have.
+ZahBeauty ("we," "us," or "our") operates the ZahBeauty mobile application (the "App"), which lets clients of ZahBeauty, a natural hair studio based in Philadelphia, Pennsylvania, browse services, book appointments, pay deposits, and manage their accounts. This Privacy Policy explains what information we collect, how we use it, how we protect it, and the choices you have.
 
 By creating an account or using the App, you agree to the collection and use of information in accordance with this policy. If you do not agree, please do not use the App.
 
@@ -11,7 +12,7 @@ By creating an account or using the App, you agree to the collection and use of 
 
 ## 1. Who We Are
 
-ZahBeauty is a natural hair studio located in Babylon, New York. We are the party responsible for the personal information collected through the App. For any questions about this policy or your data, contact us at **zahbeauty3@gmail.com**.
+ZahBeauty is a natural hair studio located in Philadelphia, Pennsylvania. We are the party responsible for the personal information collected through the App. For any questions about this policy or your data, contact us at **zahbeauty3@gmail.com**.
 
 ---
 
@@ -28,7 +29,7 @@ We collect only the information needed to run the App and provide our services.
 
 **Payment information**
 
-When you pay a deposit, your payment card details are collected and processed directly by **Stripe**, our third-party payment processor. We do **not** receive or store your full card number, security code, or other sensitive card data. We retain only a record that a deposit was paid and the amount paid. Stripe's handling of your payment information is governed by Stripe's own privacy policy, available at https://stripe.com/privacy.
+When you pay a deposit, your payment card details are collected and processed directly by **Stripe**, our third-party payment processor. We do **not** receive or store your full card number, security code, or other sensitive card data. We retain only a record that a deposit was paid, the amount paid, and a Stripe payment reference that lets us issue a refund when one is due. Stripe's handling of your payment information is governed by Stripe's own privacy policy, available at https://stripe.com/privacy.
 
 **Information collected automatically**
 
@@ -43,10 +44,10 @@ We do **not** collect your location, contacts, photos, browsing history, or adve
 We use the information we collect to:
 
 - Create, maintain, and secure your account.
-- Schedule, confirm, and send reminders about your appointments.
-- Process deposits through Stripe.
+- Schedule, confirm, and send reminders about your appointments, including emails when a booking is received, confirmed, or cancelled, and a request to review your visit afterward.
+- Process deposits and eligible refunds through Stripe.
 - Display your reviews within the App and help the studio improve its services.
-- Contact you about your bookings, by phone, text message, or push notification.
+- Contact you about your bookings by email, phone, text message, or push notification.
 - Keep accurate business records, including appointment history and revenue.
 - Respond to your questions and requests.
 - Detect, prevent, and address fraud, abuse, or security issues.
@@ -80,6 +81,7 @@ We share your information only with the service providers that make the App work
 - **Supabase**, for database, authentication, and hosting.
 - **Stripe**, for payment processing.
 - **Expo**, for delivery of push notifications.
+- **Resend**, for delivery of emails such as booking updates, appointment reminders, and password resets.
 
 These providers process your data on our behalf and are not permitted to use it for their own purposes. We do not otherwise share, rent, or sell your personal information.
 
@@ -131,6 +133,4 @@ We may update this Privacy Policy from time to time. When we do, we will revise 
 
 If you have any questions or requests about this Privacy Policy or how your data is handled, contact us at:
 
-**ZahBeauty**
-Babylon, New York
-Email: **zahbeauty3@gmail.com**
+<p class="contact"><strong>ZahBeauty</strong><br />Philadelphia, Pennsylvania<br />Email: <a href="mailto:zahbeauty3@gmail.com">zahbeauty3@gmail.com</a></p>
